@@ -1,3 +1,79 @@
-.main-banner{background-image: url("Hero-bg.png");
-background-repeat: none;width:1440px;height: 698px;margin: auto;
+/* 1st-banner */
+
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+ 
+  color: #4E47FF;
 }
+
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+  font-size: 65px;
+
+  color:black;
+}
+
+
+.main-banner{background-image: url("Hero-bg.png");
+background-repeat: none;width:1140px;height: 698px;margin:auto; text-align: center;
+}
+.extra{margin-top: 200px;}
+
+nav{border: solid red;border-style: none;padding-right: 150px;padding-left: 150px;}
+
+
+
+
+nav{display: flex;justify-content: space-between;}
+
+
+.logo-color{color: #4E47FF;font-weight: 800;}
+
+
+
+.btn-style{color:aliceblue;background-color: #4E47FF;width:132px;height: 48px;border-radius: 10px;border-style: none;font-size: medium;font-weight: 500px;}
+
+
+.nav-title{font:800;
+font-size: 30px;font-weight: 800;
+}
+
+li{list-style-type:none;}
+
+.banner-text{max: width 905px;max-height: 237px; text-align: center;}
+
+article{ max-width: 1140px;max-height: 328px;}
+.second-button{}
+
+/* 2nd-banner */
+
+.raleway-second-banner{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+ font-weight:200 ;
+  font-style: normal;color:#252432 ;
+}
+
+
+.raleway-button-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+}
+
+
+.second-banner{display: flex;justify-content: space-between;max-width: 970px;max-height: 328px;margin: auto;padding-top:120px ;padding-right: 150px;padding-left: 150px;}
+
+
+.rounded-image{border-radius: 48px;}
+
+.box{text-align: center;}
+
+.second-btn-style{background-color: #4E47FF;width:229px;height:48px;border-radius: 10px;border-style: none;color: aliceblue;}
