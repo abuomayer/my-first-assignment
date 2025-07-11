@@ -150,3 +150,14 @@ max-width: 1140px;max-height: 632px;padding-left: 350px;padding-right: 200px;bor
 width: 497px;height: 62px;border-radius: 15px;color: #E7E7FF;margin-top: 20px;border-style: none;}
 
 
+/* last & 6th */
+
+.last-border2{margin-left: 700px ;margin-right: 600px;border:solid #4E47FF;border-style: none;}
+
+.last-text{color: #8987A1;}
+
+.last-border{padding-left: 900px;padding-top: 120px;}
+
+.last-list{border: solid red;width: 531px;margin-left: 550px;margin-right: 550px;border-style: none;}
+
+
