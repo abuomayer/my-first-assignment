@@ -8,7 +8,7 @@
   color: #4E47FF;
 }
 
-
+.background{background-color: #F0F2F5;}
 .raleway-normal {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -98,5 +98,55 @@ ul{display: flex;padding-left: 0px;justify-content: space-between;padding-left:1
 
 .special-font{display: flex;justify-content:space-between;padding-left: 142px;padding-right: 142px;}
 
+
+
+/* 4th-banner */
+
+.fourth-border{text-align: center;padding-top: 120px;font-size: 42px;}
+.image-border{border-radius: 50px;padding-top: 15px;padding-right: 15px;}
+
+.card{max-width:366px;max-height: 243px;border-radius: 15px;
+border:solid #E0E0E0 1px;}
+
+.card-flex{display: flex;max-width: 1140px;}
+
+.comment-color{color: black;}
+.name-color{color: #B3B3B3;}
+
+.cmt-flex{max-width: 1140px;display: flex;border:solid red;padding-left: 370px;padding-right: 370px;border-style: none;justify-content: space-between;}
+
+
+.fourth-banner-color{color:#252432 ;}
+
+
+/* 5th-banner */
+
+.raleway-custom {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+}
+
+
+
+.fifth-banner-flex{display: flex;}
+.form-text{font-size: 97px;font-weight: 700;max-width: 528px;max-height: 232px;width: 1140px;height: 632px;text-align: center;}
+
+.fifth-border{border: solid red;display: flex;justify-content: space-between;
+
+max-width: 1140px;max-height: 632px;padding-left: 350px;padding-right: 200px;border-style:none;
+
+}
+
+.top-pad{padding-top: 68px;}
+
+.custom-input{width: 497px;height: 70px;border-radius: 15px;border: solid #B3B3B3 1px;}
+
+.custom-text{font-size: 18px;color: black;}
+
+.custom-padding{padding-top: 20px;}
+.custom-button{background-color: #4E47FF;
+width: 497px;height: 62px;border-radius: 15px;color: #E7E7FF;margin-top: 20px;border-style: none;}
 
 
