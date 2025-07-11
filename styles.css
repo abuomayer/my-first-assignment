@@ -1,4 +1,4 @@
-/* 1st-banner */
+/* 1st-banner */ 
 
 
 .inter-normal {
@@ -20,8 +20,8 @@
 }
 
 
-.main-banner{background-image: url("Hero-bg.png");
-background-repeat: none;width:1140px;height: 698px;margin:auto; text-align: center;
+.main-banner{background-image: url("./Hero-bg.png");
+background-repeat: none;width:1440px;height: 698px;margin:auto; text-align: center;
 }
 .extra{margin-top: 200px;}
 
@@ -69,7 +69,7 @@ article{ max-width: 1140px;max-height: 328px;}
 }
 
 
-.second-banner{display: flex;justify-content: space-between;max-width: 970px;max-height: 328px;margin: auto;padding-top:120px ;padding-right: 150px;padding-left: 150px;}
+.second-banner{display: flex;justify-content: space-between;max-width: 1140px;max-height: 328px;margin:auto ;padding-top:120px ;padding-right: 150px;padding-left: 150px;}
 
 
 .rounded-image{border-radius: 48px;}
@@ -77,3 +77,26 @@ article{ max-width: 1140px;max-height: 328px;}
 .box{text-align: center;}
 
 .second-btn-style{background-color: #4E47FF;width:229px;height:48px;border-radius: 10px;border-style: none;color: aliceblue;}
+
+
+
+/* 3rd-banner */
+
+.inter-ratings-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+  font-size:80px;
+  justify-content: space-between;}
+
+ul{display: flex;padding-left: 0px;justify-content: space-between;padding-left:142px;padding-right: 142px;}
+
+.box-color{background-color: #E7E7FF;max-width: 1140px;height: 302px;padding-top: 50px;margin-top: 120px;margin-right:auto;margin-left: auto;border-radius: 28px; }
+
+.text-organize{text-align: center;color:#252432 ;font-size:38px ;}
+
+.special-font{display: flex;justify-content:space-between;padding-left: 142px;padding-right: 142px;}
+
+
+
